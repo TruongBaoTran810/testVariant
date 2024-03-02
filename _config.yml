@@ -1,0 +1,13 @@
+title: <p align="center"> Truong Bao Tran </p>  # your name (or website title) here
+logo: "/assets/img/NewCV_im.jpg?raw=true" 
+description: 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/bao-tran-truong08102001/">LinkedIn</a> |
+  <a href="https://github.com/TruongBaoTran810">GitHub</a>
+  </p>
+  
+  <p align="left">
+  Management Information Systems - University of Economics and Law - VNUHCMC <br> 
+  </p>
+  
+theme: jekyll-theme-minimal
